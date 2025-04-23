@@ -7,4 +7,4 @@ __all__ = [
 
 __author__ = """springjk"""
 __email__ = "chinese.jk@gmail.com"
-__version__ = "1.0.0"
+__version__ = "0.1.0"

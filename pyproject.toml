@@ -1,7 +1,7 @@
 [project]
 name = "psutil-container-memory-patch"
 description = "Make comfyui get correct memory information in the container (psutil monkey path)"
-version = "1.0.0"
+version = "0.1.0"
 license = { file = "LICENSE.txt" }
 dependencies = []
 
