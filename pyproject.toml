@@ -3,7 +3,7 @@ requires = ["setuptools>=70.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "comfy-psutil-container-memory-patch"
+name = "psutil-container-memory-patch"
 version = "0.0.1"
 description = "Make comfyui show correct memory information in the container (psutil monkey path)"
 authors = [
