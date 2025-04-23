@@ -1,10 +1,5 @@
-"""Top-level package for psutil_container_memory_patch."""
+NODE_CLASS_MAPPINGS = {}
 
 __all__ = [
-    "NODE_CLASS_MAPPINGS",
-    "NODE_DISPLAY_NAME_MAPPINGS",
+    "NODE_CLASS_MAPPINGS"
 ]
-
-__author__ = """springjk"""
-__email__ = "chinese.jk@gmail.com"
-__version__ = "0.1.0"
